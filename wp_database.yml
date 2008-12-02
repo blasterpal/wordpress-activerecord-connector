@@ -1,0 +1,5 @@
+adapter: mysql
+database: wordpress
+username: wp_admin
+password: password1
+host: localhost
